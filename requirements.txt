@@ -1,4 +1,4 @@
+matplotlib==2.2.3
+basemap
 numpy
 pandas
-matplotlib
-basemap

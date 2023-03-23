@@ -33,3 +33,11 @@ README.rst
 
 # test
 test.py
+
+# runtime builds
+__pycache__
+.ipynb_checkpoints/
+*.pyc
+
+# vscode settings
+.vscode
